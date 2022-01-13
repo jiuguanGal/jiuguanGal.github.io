@@ -1,0 +1,33 @@
+{
+  "config": {
+    "branch": "master",
+    "cname": "",
+    "domain": "https://jiuguanGal.github.io",
+    "email": "2157827289@qq.com",
+    "password": "",
+    "platform": "github",
+    "port": "22",
+    "privateKey": "",
+    "remotePath": "",
+    "repository": "jiuguanGal.github.io",
+    "server": "",
+    "token": "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",
+    "tokenUsername": "",
+    "username": "jiuguanGal"
+  },
+  "comment": {
+    "commentPlatform": "gitalk",
+    "disqusSetting": {
+      "api": "",
+      "apikey": "",
+      "shortname": ""
+    },
+    "gitalkSetting": {
+      "clientId": "",
+      "clientSecret": "",
+      "owner": "",
+      "repository": ""
+    },
+    "showComment": false
+  }
+}
